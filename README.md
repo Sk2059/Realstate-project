@@ -150,13 +150,12 @@ Built with shadcn/ui components including:
 
 - **Phone**: +977 970-7362231
 - **Email**: realestatecrafters1@gmail.com
-- **Website**: [Lovable Project](https://lovable.dev/projects/78a356d3-a2de-417a-bc1c-d8cdf478fca4)
+- **Website**: 
 
 ## 🚀 Deployment
 
 ### Frontend Deployment
 The frontend can be deployed using:
-- Lovable platform (recommended)
 - Vercel, Netlify, or similar platforms
 - Custom domain support available
 
